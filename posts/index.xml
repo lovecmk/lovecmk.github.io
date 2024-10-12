@@ -3,7 +3,8 @@
         <title>All Posts - ray&#39;s blog</title>
         <link>https://example.com/posts/</link>
         <description>All Posts | ray&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>test@gmail.com (ray)</managingEditor>
+            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Basics</title>
     <link>https://example.com/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
@@ -84,13 +85,12 @@
 <p>The <code>bilibili</code> shortcode embeds a responsive video player for bilibili videos.</p>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - typeit Shortcode</title>
-    <link>https://example.com/theme-documentation-typeit-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 10:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://example.com/theme-documentation-typeit-shortcode/</guid>
-    <description><![CDATA[<p>The <code>typeit</code> shortcode provides typing animation based on <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer">TypeIt</a>
- library.</p>]]></description>
+    <title>Embracing Creativity: My Journey Begins</title>
+    <link>https://example.com/test/</link>
+    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+    <author>Ray</author>
+    <guid>https://example.com/test/</guid>
+    <description><![CDATA[<p>Welcome to my first blog post! Today marks the beginning of a new chapter in my life, where I will share my thoughts, experiences, and creative endeavors with you. As a passionate individual who thrives on expressing ideas through various mediums, I believe that storytelling is at the heart of every creative journey.</p>]]></description>
 </item>
 </channel>
 </rss>

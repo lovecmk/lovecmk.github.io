@@ -3,7 +3,8 @@
         <title>Markdown - Category - ray&#39;s blog</title>
         <link>https://example.com/categories/markdown/</link>
         <description>Markdown - Category - ray&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>test@gmail.com (ray)</managingEditor>
+            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
     <link>https://example.com/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>

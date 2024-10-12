@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog - Category - ray&#39;s blog</title>
+        <link>https://example.com/categories/blog/</link>
+        <description>Blog - Category - ray&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>test@gmail.com (ray)</managingEditor>
+            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>Embracing Creativity: My Journey Begins</title>
+    <link>https://example.com/test/</link>
+    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+    <author>Ray</author>
+    <guid>https://example.com/test/</guid>
+    <description><![CDATA[<p>Welcome to my first blog post! Today marks the beginning of a new chapter in my life, where I will share my thoughts, experiences, and creative endeavors with you. As a passionate individual who thrives on expressing ideas through various mediums, I believe that storytelling is at the heart of every creative journey.</p>]]></description>
+</item>
+</channel>
+</rss>

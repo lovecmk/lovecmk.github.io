@@ -3,11 +3,36 @@
         <title>Tags - Tag - ray&#39;s blog</title>
         <link>https://example.com/tags/</link>
         <description>Tags - Tag - ray&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>test@gmail.com (ray)</managingEditor>
+            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Creativity</title>
+    <link>https://example.com/tags/creativity/</link>
+    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+    <author>ray</author>
+    <guid>https://example.com/tags/creativity/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Journey</title>
+    <link>https://example.com/tags/journey/</link>
+    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+    <author>ray</author>
+    <guid>https://example.com/tags/journey/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Writing</title>
+    <link>https://example.com/tags/writing/</link>
+    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+    <author>ray</author>
+    <guid>https://example.com/tags/writing/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Configuration</title>
     <link>https://example.com/tags/configuration/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>ray</author>
     <guid>https://example.com/tags/configuration/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -15,7 +40,7 @@
     <title>Installation</title>
     <link>https://example.com/tags/installation/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>ray</author>
     <guid>https://example.com/tags/installation/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -23,7 +48,7 @@
     <title>Shortcodes</title>
     <link>https://example.com/tags/shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>ray</author>
     <guid>https://example.com/tags/shortcodes/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -31,7 +56,7 @@
     <title>HTML</title>
     <link>https://example.com/tags/html/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>ray</author>
     <guid>https://example.com/tags/html/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -39,7 +64,7 @@
     <title>Markdown</title>
     <link>https://example.com/tags/markdown/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>ray</author>
     <guid>https://example.com/tags/markdown/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -47,7 +72,7 @@
     <title>Emoji</title>
     <link>https://example.com/tags/emoji/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>ray</author>
     <guid>https://example.com/tags/emoji/</guid>
     <description><![CDATA[]]></description>
 </item>
