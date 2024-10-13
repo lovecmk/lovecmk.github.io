@@ -4,7 +4,7 @@
         <link>https://example.com/posts/</link>
         <description>All Posts | ray&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>test@gmail.com (ray)</managingEditor>
-            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Oct 2024 22:29:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Basics</title>
     <link>https://example.com/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
@@ -15,7 +15,7 @@
 <item>
     <title>Dream of eating apple</title>
     <link>https://example.com/dream-of-eating-apple/</link>
-    <pubDate>Sun, 13 Oct 2024 07:39:00 &#43;0800</pubDate>
+    <pubDate>Sun, 13 Oct 2024 07:22:00 &#43;0800</pubDate>
     <author>ray</author>
     <guid>https://example.com/dream-of-eating-apple/</guid>
     <description><![CDATA[<p>Dreams have long fascinated humanity, serving as a window into our subconscious. Understanding and analyzing dreams can provide valuable insights into our emotions, fears, and desires. When we take the time to interpret our dreams, we begin to unravel the complex tapestry of our inner thoughts. This process not only helps us understand ourselves better but also allows us to connect our past experiences with our present circumstances and future possibilities.</p>]]></description>
@@ -39,30 +39,9 @@
 <p>Ultimately, dream interpretation is more than just a curious pastime; it is a profound practice that bridges our past, present, and future. By engaging with our dreams, we can unlock the hidden messages they carry, leading us toward greater self-awareness and personal growth.</p>]]></description>
 </item>
 <item>
-    <title>Basic Markdown Syntax</title>
-    <link>https://example.com/dream_test/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>ray</author>
-    <guid>https://example.com/dream_test/</guid>
-    <description><![CDATA[<p>Dreams have long fascinated humanity, serving as a window into our subconscious. Understanding and analyzing dreams can provide valuable insights into our emotions, fears, and desires. When we take the time to interpret our dreams, we begin to unravel the complex tapestry of our inner thoughts. This process not only helps us understand ourselves better but also allows us to connect our past experiences with our present circumstances and future possibilities.</p>
-<p>By delving into the meanings behind specific dreams, we can gain clarity about unresolved issues from our past. These dreams often reflect our memories, traumas, and lessons learned, reminding us of what we need to confront or embrace. Moreover, dreams can serve as a guide for our future, revealing our aspirations and potential paths we may take. They can provide warnings or encouragement, nudging us toward decisions that align with our true selves.</p>
-<p>Ultimately, dream interpretation is more than just a curious pastime; it is a profound practice that bridges our past, present, and future. By engaging with our dreams, we can unlock the hidden messages they carry, leading us toward greater self-awareness and personal growth.</p>
-<div class="details admonition note open">
-        <div class="details-summary admonition-title">
-            <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>Note<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
-        </div>
-        <div class="details-content">
-            <div class="admonition-content">Welcome to the realm of dreams, where I, <a href="https://instagram.com/ray._.atelier" target="_blank" rel="noopener noreffer">Ray</a>
-, explore the intricacies of dream interpretation and meaning. Here, you’ll find insights that bridge the gap between your subconscious and conscious mind. Join me on a journey to uncover the hidden messages in your dreams.</div>
-        </div>
-    </div>
-<h2 id="final-reflections-on-dreams">Final Reflections on Dreams</h2>
-<p>As we conclude this journey through the world of dreams, remember that dreams are both mysterious and beautiful. They hold the power to reveal hidden truths and insights about ourselves. By embracing their messages, we can cultivate a more positive influence in our lives. Let us live with intention, guided by the wisdom our dreams offer. Together, may we navigate our paths with clarity and purpose.</p>]]></description>
-</item>
-<item>
     <title>Dream of giving a banana to a friend</title>
     <link>https://example.com/dream-of-giving-a-banana-to-a-friend/</link>
-    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
+    <pubDate>Sun, 13 Oct 2024 12:09:00 &#43;0800</pubDate>
     <author>ray</author>
     <guid>https://example.com/dream-of-giving-a-banana-to-a-friend/</guid>
     <description><![CDATA[<p>Dreams have long fascinated humanity, serving as a window into our subconscious. Understanding and analyzing dreams can provide valuable insights into our emotions, fears, and desires. When we take the time to interpret our dreams, we begin to unravel the complex tapestry of our inner thoughts. This process not only helps us understand ourselves better but also allows us to connect our past experiences with our present circumstances and future possibilities.</p>]]></description>
@@ -88,7 +67,7 @@
 <item>
     <title>Dream of discovering grapes</title>
     <link>https://example.com/dream-of-discovering-grapes/</link>
-    <pubDate>Sun, 13 Oct 2024 01:45:00 &#43;0800</pubDate>
+    <pubDate>Sun, 13 Oct 2024 09:58:00 &#43;0800</pubDate>
     <author>ray</author>
     <guid>https://example.com/dream-of-discovering-grapes/</guid>
     <description><![CDATA[<p>Dreams have long fascinated humanity, serving as a window into our subconscious. Understanding and analyzing dreams can provide valuable insights into our emotions, fears, and desires. When we take the time to interpret our dreams, we begin to unravel the complex tapestry of our inner thoughts. This process not only helps us understand ourselves better but also allows us to connect our past experiences with our present circumstances and future possibilities.</p>]]></description>
@@ -101,6 +80,14 @@
     <guid>https://example.com/theme-documentation-echarts-shortcode/</guid>
     <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer">ECharts</a>
  library.</p>]]></description>
+</item>
+<item>
+    <title>Dream of having a good time eating strawberries</title>
+    <link>https://example.com/dream-of-having-a-good-time-eating-strawberries/</link>
+    <pubDate>Sun, 13 Oct 2024 18:44:00 &#43;0800</pubDate>
+    <author>ray</author>
+    <guid>https://example.com/dream-of-having-a-good-time-eating-strawberries/</guid>
+    <description><![CDATA[<p>Dreams have long fascinated humanity, serving as a window into our subconscious. Understanding and analyzing dreams can provide valuable insights into our emotions, fears, and desires. When we take the time to interpret our dreams, we begin to unravel the complex tapestry of our inner thoughts. This process not only helps us understand ourselves better but also allows us to connect our past experiences with our present circumstances and future possibilities.</p>]]></description>
 </item>
 </channel>
 </rss>

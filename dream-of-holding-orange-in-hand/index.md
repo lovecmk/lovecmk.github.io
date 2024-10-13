@@ -41,12 +41,12 @@ This dream shows that vitality and creativity is enriched, so you can be lucky.I
 | Lucky Animal        | Otter |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Anemone    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Ranunculus    |
 | Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Kuwait    |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

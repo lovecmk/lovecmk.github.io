@@ -41,12 +41,12 @@ The luck of this dream is subjective and may vary by individual interpretation.B
 | Lucky Animal        | Seal |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

@@ -41,12 +41,12 @@ The luck of this dream can occur mainly in intimate relationships.The act of giv
 | Lucky Animal        | Hyena |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Buffalo Wings      |
+| Lucky Food          | Falafel      |
 | Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Nigeria    |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

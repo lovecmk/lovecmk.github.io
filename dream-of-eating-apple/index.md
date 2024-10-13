@@ -41,12 +41,12 @@ The dream of eating apple is mainly a sign of predicting self -growth and person
 | Lucky Animal        | Turtle |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams
