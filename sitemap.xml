@@ -3,29 +3,55 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>https://example.com/theme-documentation-basics/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dream-of-eating-apple/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/theme-documentation-extended-shortcodes/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/basic-markdown-syntax/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dream_test/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://example.com/dream-of-giving-a-banana-to-a-friend/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/theme-documentation-mermaid-shortcode/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/emoji-support/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dream-of-discovering-grapes/</loc><lastmod>2024-10-13T01:45:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/theme-documentation-echarts-shortcode/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dream-of-having-a-good-time-eating-strawberries/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/theme-documentation-mapbox-shortcode/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dream-of-holding-orange-in-hand/</loc><lastmod>2024-10-13T03:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/theme-documentation-music-shortcode/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/theme-documentation-bilibili-shortcode/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/test/</loc><lastmod>2024-10-12T10:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/theme-documentation-typeit-shortcode/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/a/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/banana/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/dream/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/dream-interpretation/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/friend/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/giving/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/of/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/posts/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/to/</loc><lastmod>2024-10-13T09:18:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/apple/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/eating/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/good/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/having/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/strawberries/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/time/</loc><lastmod>2024-10-13T07:39:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/hand/</loc><lastmod>2024-10-13T03:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/holding/</loc><lastmod>2024-10-13T03:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/in/</loc><lastmod>2024-10-13T03:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/orange/</loc><lastmod>2024-10-13T03:48:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/discovering/</loc><lastmod>2024-10-13T01:45:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/grapes/</loc><lastmod>2024-10-13T01:45:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/categories/blog/</loc><lastmod>2024-10-12T10:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/creativity/</loc><lastmod>2024-10-12T10:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/journey/</loc><lastmod>2024-10-12T10:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/posts/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/tags/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/writing/</loc><lastmod>2024-10-12T10:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/configuration/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/installation/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/shortcodes/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/html/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/markdown/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/markdown/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/tags/emoji/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/markdown/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/categories/documentation/</loc><lastmod>2024-10-12T18:12:31&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

@@ -4,15 +4,7 @@
         <link>https://example.com/categories/markdown/</link>
         <description>Markdown - Category - ray&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>test@gmail.com (ray)</managingEditor>
-            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>Basic Markdown Syntax</title>
-    <link>https://example.com/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://example.com/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item>
-<item>
+            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Emoji Support</title>
     <link>https://example.com/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>

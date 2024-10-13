@@ -4,76 +4,84 @@
         <link>https://example.com/tags/</link>
         <description>Tags - Tag - ray&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>test@gmail.com (ray)</managingEditor>
-            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Creativity</title>
-    <link>https://example.com/tags/creativity/</link>
-    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+            <webMaster>test@gmail.com (ray)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>A</title>
+    <link>https://example.com/tags/a/</link>
+    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/creativity/</guid>
+    <guid>https://example.com/tags/a/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Journey</title>
-    <link>https://example.com/tags/journey/</link>
-    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+    <title>Banana</title>
+    <link>https://example.com/tags/banana/</link>
+    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/journey/</guid>
+    <guid>https://example.com/tags/banana/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Writing</title>
-    <link>https://example.com/tags/writing/</link>
-    <pubDate>Sat, 12 Oct 2024 10:00:00 &#43;0800</pubDate>
+    <title>Dream</title>
+    <link>https://example.com/tags/dream/</link>
+    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/writing/</guid>
+    <guid>https://example.com/tags/dream/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Configuration</title>
-    <link>https://example.com/tags/configuration/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <title>Friend</title>
+    <link>https://example.com/tags/friend/</link>
+    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/configuration/</guid>
+    <guid>https://example.com/tags/friend/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Installation</title>
-    <link>https://example.com/tags/installation/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <title>Giving</title>
+    <link>https://example.com/tags/giving/</link>
+    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/installation/</guid>
+    <guid>https://example.com/tags/giving/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Shortcodes</title>
-    <link>https://example.com/tags/shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <title>Of</title>
+    <link>https://example.com/tags/of/</link>
+    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/shortcodes/</guid>
+    <guid>https://example.com/tags/of/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>HTML</title>
-    <link>https://example.com/tags/html/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <title>To</title>
+    <link>https://example.com/tags/to/</link>
+    <pubDate>Sun, 13 Oct 2024 09:18:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/html/</guid>
+    <guid>https://example.com/tags/to/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Markdown</title>
-    <link>https://example.com/tags/markdown/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <title>Apple</title>
+    <link>https://example.com/tags/apple/</link>
+    <pubDate>Sun, 13 Oct 2024 07:39:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/markdown/</guid>
+    <guid>https://example.com/tags/apple/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Emoji</title>
-    <link>https://example.com/tags/emoji/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <title>Eating</title>
+    <link>https://example.com/tags/eating/</link>
+    <pubDate>Sun, 13 Oct 2024 07:39:00 &#43;0800</pubDate>
     <author>ray</author>
-    <guid>https://example.com/tags/emoji/</guid>
+    <guid>https://example.com/tags/eating/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Good</title>
+    <link>https://example.com/tags/good/</link>
+    <pubDate>Sun, 13 Oct 2024 07:39:00 &#43;0800</pubDate>
+    <author>ray</author>
+    <guid>https://example.com/tags/good/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
